@@ -1,0 +1,18 @@
+[2024-06-25T19:49:53Z]Starting Merlin Server version 1.0.1 build nonRelease
+[2024-06-26T06:54:46Z]Starting Merlin Server version 1.0.1 build nonRelease
+[2024-06-26T07:16:19Z]Starting Merlin Server version 1.0.1 build nonRelease
+[2024-06-26T08:20:59Z]Starting Merlin Server version 1.0.1 build nonRelease
+[2024-06-26T08:57:37Z]Starting Merlin Server version 1.0.1 build nonRelease
+[2024-06-26T09:32:08Z]Starting Merlin Server version 1.0.1 build nonRelease
+[2024-06-26T11:09:07Z]Starting Merlin Server version 1.0.1 build nonRelease
+[2024-06-26T11:16:25Z]Starting Merlin Server version 1.0.1 build nonRelease
+[2024-06-26T11:21:20Z]Starting Merlin Server version 1.0.1 build nonRelease
+[2024-06-26T13:28:50Z]Starting Merlin Server version 1.0.1 build nonRelease
+[2024-06-27T11:05:26Z]Received new agent OPAQUE user registration initialization from f5cd9432-f312-4b24-a30c-932062d63365
+[2024-06-27T11:05:31Z]Created authenticated JWT for f5cd9432-f312-4b24-a30c-932062d63365
+[2024-06-27T11:06:02Z]Created authenticated JWT for f5cd9432-f312-4b24-a30c-932062d63365
+[2024-06-27T11:06:37Z]Created authenticated JWT for f5cd9432-f312-4b24-a30c-932062d63365
+[2024-06-27T11:07:11Z]Created authenticated JWT for f5cd9432-f312-4b24-a30c-932062d63365
+[2024-06-27T11:07:45Z]Created authenticated JWT for f5cd9432-f312-4b24-a30c-932062d63365
+[2024-06-27T11:08:18Z]Created authenticated JWT for f5cd9432-f312-4b24-a30c-932062d63365
+[2024-06-27T11:08:49Z]Created authenticated JWT for f5cd9432-f312-4b24-a30c-932062d63365
