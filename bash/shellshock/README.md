@@ -1,7 +1,5 @@
 # Shellshock Remote Command Injection (CVE-2014-6271)
 
-[中文版本(Chinese version)](README.zh-cn.md)
-
 Build and run the vulnerable environment：
 
 ```
@@ -23,3 +21,5 @@ We can send include our payload in the user-agent string when visiting victim.cg
 The same request sent to safe.cgi is unaffected:
 
 ![](2.png)
+
+For a detailed guide on the **Shellshock Remote Command Injection**, including a comprehensive explanation of the vulnerabilities and potential attacks, please refer to the project's documentation at [GitHub Pages](https://sne-m23-sn.github.io/Vulnerable-Nodes-Lab/#1-Shellshock-Remote-Command-Injection-CVE-2014-6271).
